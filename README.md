@@ -19,6 +19,19 @@ This is the official backend API for **SkillSquare**, a platform designed to con
 * **Role-Based Authorization:** Distinct access levels for Admins, Providers, and standard Users.
 * **Real-time Notifications:** Instant alerts using SignalR Hubs.
 
+
+## 🧪 Demo Test Credentials
+To help reviewers and developers test the API, the following demo accounts are available:
+### 👤 Customer
+- **Email:** `test@gmail.com`
+- **Password:** `Test@123`
+### 🛠️ Provider
+- **Email:** `provider22@gmail.com`
+- **Password:** `Provider@123`
+### 🛡️ Admin
+- **Email:** `admin@skillsquare.com`
+- **Password:** `Admin@123`
+
 ## 🔐 Authentication (How to test)
 This API uses Bearer JWT for security. To test endpoints in Swagger:
 1. Go to the `/api/Auth/login` endpoint.
