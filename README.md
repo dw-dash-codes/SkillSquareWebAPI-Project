@@ -3,7 +3,7 @@
 This is the official backend API for **SkillSquare**, a platform designed to connect users with local skilled professionals. It is built using modern .NET technologies and follows a robust repository pattern architecture.
 
 ## 🌐 Live API
-**Swagger UI:** [View Live API Documentation](http://skill-square-api.runasp.net/index.html)
+**Swagger UI:** [View Live API Documentation](https://skill-square-api.runasp.net/index.html)
 
 ## 🛠️ Tech Stack
 * **Framework:** ASP.NET Core 8/9 Web API
