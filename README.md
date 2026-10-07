@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SkillSquare Backend API 🚀
 
 This is the official backend API for **SkillSquare**, a platform designed to connect users with local skilled professionals. It is built using modern .NET technologies and follows a robust repository pattern architecture.
